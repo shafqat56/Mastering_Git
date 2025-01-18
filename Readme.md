@@ -1,5 +1,6 @@
-## Hello, welcome to Git Guide
+## Mastering Git Through JS Mastery
 
-- changes this from dev-muhib branch
 
+- Changes from dev-shafqat branch
+- Changes this from dev-muhib branch
 ## Changes this from Features branch
